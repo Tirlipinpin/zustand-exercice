@@ -1,0 +1,12 @@
+.tags {
+  display: flex;
+  gap: 4px;
+
+  & .tag {
+    color: white;
+    padding: 4px;
+    list-style-type: none;
+
+    border-radius: 4px;
+  }
+}
